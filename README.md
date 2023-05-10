@@ -32,9 +32,9 @@ The following open-source projects were used to develop admin-panel-frontend:
 ## Setup:
 - You can  Clone this repository. 
 ``` bash
-git clone https://git.artjoker.ua/javascript/admin-panel-frontend.git
+git clone https://github.com/artjoker/admin-panel.git
 ```
-- Install and run ["admin-panel-backend"](https://git.artjoker.ua/javascript/admin-panel-backend).
+- Install and run ["admin-panel-backend"](https://github.com/artjoker/admin-panel-backend.git).
 - Install dependencies
  ```bash
 yarn install
@@ -49,7 +49,7 @@ VITE_PUBLIC_API_URL= The URL of the API that the frontend will communicate with.
 
 ## Code Style:
  
-Will run ESLint to check the code complience to the [AirBnB](https://github.com/airbnb/javascript) code style.
+If you want to enforce a specific code style, you can run [ESLint](https://eslint.org/docs/latest/rules/) with your desired configuration. This project follows a standard JavaScript code style.
 ```bash
 yarn run lint
 
