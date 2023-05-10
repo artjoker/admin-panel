@@ -1,0 +1,1 @@
+export { useGetPageTypeOptions } from './useGetPageTypeOptions';

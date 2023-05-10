@@ -1,0 +1,1 @@
+export { changeNavigatePath } from './changeNavigatePath';

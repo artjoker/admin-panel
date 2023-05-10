@@ -1,0 +1,1 @@
+export { ThemeConfigProvider } from './ThemeConfigProvider';

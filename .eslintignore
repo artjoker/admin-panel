@@ -1,0 +1,9 @@
+/dist
+*.scss
+*.css
+/node_modules
+/build
+vite.config.ts
+jest.setup.ts
+jest.config.js
+commitlint.config.js
